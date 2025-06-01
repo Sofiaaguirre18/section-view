@@ -1,18 +1,17 @@
-# Basic Navigation App
+## Class Section View
 
-This app demonstrates the basics of expo router and react native web.
+This Class Section View Application is designed for both students and faculty members to easily access their academic sections.
 
-# Setup
+## Screenshots
 
-1. Download the zip folder and open it on VS Code
-2. Open a new terminal on VS Code and run `npm i`
-3. After installing the node modules, run `npm run start` to run the app
-4. Run the app on your preferred device (Android Studio emulator, Expo Go, Web, etc.)
+1. Student Tool Page:  
+    ![Student Tool](./screenshots/studentTool.jpg)
 
-# Built with
+2. Class Sections Page:
+    ![Class Sections](./screenshots/sections.jpg)
 
-* File-based Routing
-* Nested and Dynamic Routes
-* Stack, Tabs, and Drawer Navigation
-* Web-specific code (Platform.OS === web)
-* Web-specific files e.g. MyComponent.web.jsx
+3. Class/Students List Page:
+    ![Class/Students List](./screenshots/classList.jpg)
+
+4. Specialization Form:
+    ![Specialization Forml](./screenshots/specializationForm.jpg)
