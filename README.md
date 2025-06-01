@@ -5,13 +5,13 @@ This Class Section View Application is designed for both students and faculty me
 ## Screenshots
 
 1. Student Tool Page:  
-    ![Student Tool](./screenshots/studentTool.jpg)
+    <img src="./screenshots/studentTool.jpg" alt="Student Tool" width="400"/>
 
-2. Class Sections Page:
-    ![Class Sections](./screenshots/sections.jpg)
+2. Class Sections Page:  
+    <img src="./screenshots/sections.jpg" alt="Class Sections" width="400"/>
 
-3. Class/Students List Page:
-    ![Class/Students List](./screenshots/classList.jpg)
+3. Class/Students List Page:  
+    <img src="./screenshots/classList.jpg" alt="Class/Students List" width="400"/>
 
-4. Specialization Form:
-    ![Specialization Forml](./screenshots/specializationForm.jpg)
+4. Specialization Form:  
+    <img src="./screenshots/specializationForm.jpg" alt="Specialization Form" width="400"/>
