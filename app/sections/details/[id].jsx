@@ -24,7 +24,7 @@ export default function ClassDetails() {
   // Add gender property for demonstration
   const [students] = useState([
     { id: 1, studentId: "22-32295", name: "Aguirre, Princess Sofia P.", gender: "Female" },
-    { id: 2, studentId: "22-33362", name: "San Esteban, Annemory O.", gender: "Female" },
+    { id: 2, studentId: "22-33362", name: "San Esteban, Annemony O.", gender: "Female" },
     { id: 3, studentId: "22-32216", name: "Carullo, Andrei", gender: "Male" },
     { id: 4, studentId: "23-31104", name: "Tadeo, Angel Marie M.", gender: "Female" },
   ]);
