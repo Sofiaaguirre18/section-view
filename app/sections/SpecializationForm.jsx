@@ -22,13 +22,13 @@ const SpecializationForm = ({ onSubmit, onCancel }) => {
   const [modalType, setModalType] = useState('success');
   const [modalMessage, setModalMessage] = useState('');
 
-  // Mock data for checking if student already has specialization
+  // Sample data for checking if student already has specialization
   const studentsWithSpecialization = ['22-12345', '22-54321', '23-11111'];
 
   function handleStudentInput() {
-    // Validate inputs
+    // Validate inputsX
     if (!enteredStudentID.trim()) {
-      showErrorModal('Please enter Student ID');
+      showErrorModal('Please enter Student ID'); //interactive elements
       return;
     }
 

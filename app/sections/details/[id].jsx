@@ -47,7 +47,7 @@ export default function ClassDetails() {
 
       <Header
         title="ABM K"
-        details={["11 - STEM", "AMS 203", "AM Class"]}
+        details={["11 - ABM", "AMS 203", "AM Class"]}
       />
 
       <View style={styles.filtersContainer}>

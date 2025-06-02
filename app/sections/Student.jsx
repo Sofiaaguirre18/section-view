@@ -13,7 +13,7 @@ export default function Student() {
       {/* Header Title */}
       <Stack.Screen
         options={{
-          title: "Class Section"
+          title: "Student Tools",
         }}
       />
 
